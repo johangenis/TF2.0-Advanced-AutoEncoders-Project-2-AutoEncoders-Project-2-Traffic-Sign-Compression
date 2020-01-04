@@ -1,4 +1,4 @@
-# TensorFlow 2.0: Advanced AutoEncoders: Project 2: AutoEncoders Traffic Sign Compression
+# TensorFlow 2.0: Advanced Auto Encoders: Project 2: AutoEncoders Traffic Sign Compression
 
 ## PROBLEM STATEMENT
 
